@@ -2,7 +2,7 @@ mport java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Numero magico: sumar dígitos hasta obtener 1
+        // Numero magico: sumar digitos hasta obtener 1
         Scanner sc = new Scanner(System.in);
         System.out.print("Numero: ");
         int n = sc.nextInt();
