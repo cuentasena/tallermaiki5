@@ -1,6 +1,6 @@
 mport java.util.Scanner;
 
-public class Main {
+public class Numeromagic{
     public static void main(String[] args) {
         // Numero magico: sumar digitos hasta obtener 1
         Scanner sc = new Scanner(System.in);
